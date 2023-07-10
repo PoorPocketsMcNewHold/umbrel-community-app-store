@@ -1,0 +1,23 @@
+manifestVersion: 1
+id: discordgsm
+category: web
+name: Discord game server monitor
+version: "2.13.0"
+tagline:  A discord bot that monitors your game server and tracks the live data of your game servers.
+description: >-
+  Designed for Discord Server admins like yours
+
+  DiscordGSM is used on 2626 servers, we invite you to try it out and hope you enjoy!
+developer: DiscordGSM
+website: https://discordgsm.com/
+dependencies:
+repo: https://github.com/DiscordGSM/GameServerMonitor
+support: https://discordgsm.com/discord
+port: 5432,8000
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
