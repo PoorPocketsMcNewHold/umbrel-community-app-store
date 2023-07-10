@@ -15,9 +15,8 @@ repo: https://github.com/DiscordGSM/GameServerMonitor
 support: https://discordgsm.com/discord
 port: 5432,8000
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
-path: ""
+  - https://camo.githubusercontent.com/e6c6186fce61e5e11f93cc6e4fb2ae5d9ba82928da8b73694b2d674b1330adca/68747470733a2f2f646973636f726467736d2e636f6d2f7468756d626e61696c2e6a7067
+  - https://camo.githubusercontent.com/870b4b10e61153da4b22b52cfadcaaa88c63e69b9f94b998f1c75e0dfb8a2330/68747470733a2f2f646973636f726467736d2e636f6d2f67616d652d7365727665722d6d6f6e69746f722d616c6572742e6a70673f763d32
+dependencies: []
 defaultUsername: ""
 defaultPassword: ""
